@@ -1,0 +1,111 @@
+Driver: Dhruv Chandna
+Starting Address: Thomas Jefferson High School for Science and Technology, 6560, Braddock Road, Willow Run, Alexandria, Fairfax County, Virginia, 22312, United States
+Stop 1 (Nusair A.): 4424, Sano Street, Lincolnia Heights, Lincolnia, Fairfax County, Virginia, 22312, United States
+2.2 mi
+7 mins
+Stop 2 (Raka Adakroy): 1293, Scotts Run Road, Elmwood Estates, McLean, Fairfax County, Virginia, 22102, United States
+11.7 mi
+23 mins
+Stop 3 (Joanna Abraham): 7907, Tyson Oaks Circle, Madrillon Farms, Tysons, Fairfax County, Virginia, 22182, United States
+3.8 mi
+13 mins
+Stop 4 (Jamie): The Eye Center, 8316, Arlington Boulevard, Merrifield, Fairfax County, Virginia, 22031, United States
+3.2 mi
+10 mins
+Stop 5 (Dhruv Chandna): 9113, Santayana Drive, Mantua, Fairfax County, Virginia, 22031, United States
+2.0 mi
+7 mins
+Total Distance: 22.9
+Total Time: 60
+
+Driver: Arya Adake
+Starting Address: Thomas Jefferson High School for Science and Technology, 6560, Braddock Road, Willow Run, Alexandria, Fairfax County, Virginia, 22312, United States
+Stop 1 (Luke Flecker): 13308, Ivakota Farm Road, Ivakota, Fairfax County, Virginia, 20124, United States
+17.8 mi
+33 mins
+Stop 2 (Suhani A.): 14415, Black Horse Court, Centreville, Fairfax County, Virginia, 20120, United States
+7.5 mi
+15 mins
+Stop 3 (Harika A.): 5316, Rosemallow Circle, Centreville Farms, Centreville, Fairfax County, Virginia, 20120, United States
+3.9 mi
+10 mins
+Stop 4 (Arya Adake): 13540, Stargazer Terrace, Centreville Farms, Centreville, Fairfax County, Virginia, 20120, United States
+0.5 mi
+3 mins
+Total Distance: 29.7
+Total Time: 61
+
+Driver: Jai A.
+Starting Address: Thomas Jefferson High School for Science and Technology, 6560, Braddock Road, Willow Run, Alexandria, Fairfax County, Virginia, 22312, United States
+Stop 1 (Neil A.): 13120, Rose Petal Circle, Floris, Fairfax County, Virginia, 20171, United States
+22.8 mi
+31 mins
+Stop 2 (Anand A.): 13260, Middleton Farm Lane, Oak Hill, Fairfax County, Virginia, 20171, United States
+1.6 mi
+4 mins
+Stop 3 (Jai A.): 13022, New Parkland Drive, Oak Hill, Fairfax County, Virginia, 20171, United States
+0.9 mi
+3 mins
+Total Distance: 25.3
+Total Time: 38
+
+Driver: Sarah A.
+Starting Address: Thomas Jefferson High School for Science and Technology, 6560, Braddock Road, Willow Run, Alexandria, Fairfax County, Virginia, 22312, United States
+Stop 1 (Pratyush): 42300, Madturkey Run Place, Dawsons' Corner, Loudoun County, Virginia, 20152, United States
+32.3 mi
+41 mins
+Stop 2 (Sarah A.): 13614, Mountain View Court, Floris, Fairfax County, Virginia, 20171, United States
+14.0 mi
+27 mins
+Total Distance: 46.3
+Total Time: 68
+
+Driver: Gus
+Starting Address: Thomas Jefferson High School for Science and Technology, 6560, Braddock Road, Willow Run, Alexandria, Fairfax County, Virginia, 22312, United States
+Stop 1 (Jackson): 11319, Aristotle Drive, Random Hills, Fairfax County, Virginia, 22030, United States
+10.5 mi
+29 mins
+Stop 2 (Arnav): 3927, Penderview Drive, Penderbrook, Fair Oaks, Fairfax County, Virginia, 22033, United States
+3.2 mi
+7 mins
+Stop 3 (Aneesh): 12400, Rose Path Circle, Pender, Chantilly, Fairfax County, Virginia, 22033, United States
+2.1 mi
+6 mins
+Stop 4 (Jack): 12430, Casbeer Drive, Fair Lakes Court, Chantilly, Fairfax County, Virginia, 22033, United States
+0.6 mi
+3 mins
+Stop 5 (John): 4215, Mozart Brigade Lane, Penderlan, Chantilly, Fairfax County, Virginia, 22033, United States
+1.0 mi
+4 mins
+Stop 6 (Johnny): 4236, Hunt Club Circle, Penderlan, Fair Oaks, Fairfax County, Virginia, 22033, United States
+0.4 mi
+3 mins
+Stop 7 (Dhruv A.): 4472, Black Ironwood Drive, Fair Oaks, Fairfax County, Virginia, 22030, United States
+0.9 mi
+5 mins
+Stop 8 (Gus): 12000, Glen Alden Road, Dixie Hill, Fairfax County, Virginia, 22030, United States
+1.3 mi
+4 mins
+Total Distance: 19.999999999999996
+Total Time: 61
+
+Driver: Pratush
+Starting Address: Thomas Jefferson High School for Science and Technology, 6560, Braddock Road, Willow Run, Alexandria, Fairfax County, Virginia, 22312, United States
+Stop 1 (Daniel): 10284, Colony Park Drive, Colony Park, Burke Centre, Fairfax County, Virginia, 22032, United States
+8.0 mi
+18 mins
+Stop 2 (Billy): 5401, Cheshire Meadows Way, Colony Park, Burke Centre, Fairfax County, Virginia, 22032, United States
+0.3 mi
+2 mins
+Stop 3 (Simon): 10171, Fair Woods Drive, Mosby Woods Condominiums, Fairfax, Fairfax (city), Virginia, 22030, United States
+5.9 mi
+17 mins
+Stop 4 (Jimmy): Fairfax County Courthouse, 4110, Chain Bridge Road, Fairfax, Fairfax County, Virginia, 22030, United States
+2.2 mi
+8 mins
+Stop 5 (Pratush): 4305, Ramona Drive, Ardmore, Fairfax, Fairfax (city), Virginia, 22030, United States
+0.6 mi
+2 mins
+Total Distance: 17.000000000000004
+Total Time: 47
+
